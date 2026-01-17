@@ -157,11 +157,3 @@ Prompt Store → Replay Executor → Evaluation Engine → Recommendations
 MIT License - see LICENSE file for details
 
 ---
-
-## Contributing
-
-We welcome contributions! See CONTRIBUTING.md for guidelines.
-
----
-
-**Built with clarity. Powered by evidence.**
