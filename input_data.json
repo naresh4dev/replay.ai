@@ -1,0 +1,1206 @@
+{
+    "object": "list",
+    "total": 430,
+    "data": [
+        {
+            "slug": "o3-deep-research",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "80d8eb77-9948-4c79-be2c-8d777fc1f3e1",
+                "ai_provider_id": "de7d7d50-31cd-11ee-b93b-0e06f1aa7f7c",
+                "integration_id": "84c0c041-07c5-4259-ac4e-9fb2e832a04c"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "o3-2025-04-16",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "80d8eb77-9948-4c79-be2c-8d777fc1f3e1",
+                "ai_provider_id": "de7d7d50-31cd-11ee-b93b-0e06f1aa7f7c",
+                "integration_id": "84c0c041-07c5-4259-ac4e-9fb2e832a04c"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "o3",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "80d8eb77-9948-4c79-be2c-8d777fc1f3e1",
+                "ai_provider_id": "de7d7d50-31cd-11ee-b93b-0e06f1aa7f7c",
+                "integration_id": "84c0c041-07c5-4259-ac4e-9fb2e832a04c"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "o1-pro-2025-03-19",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "80d8eb77-9948-4c79-be2c-8d777fc1f3e1",
+                "ai_provider_id": "de7d7d50-31cd-11ee-b93b-0e06f1aa7f7c",
+                "integration_id": "84c0c041-07c5-4259-ac4e-9fb2e832a04c"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "o1-pro",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "80d8eb77-9948-4c79-be2c-8d777fc1f3e1",
+                "ai_provider_id": "de7d7d50-31cd-11ee-b93b-0e06f1aa7f7c",
+                "integration_id": "84c0c041-07c5-4259-ac4e-9fb2e832a04c"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "o1-preview-2024-09-12",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "80d8eb77-9948-4c79-be2c-8d777fc1f3e1",
+                "ai_provider_id": "de7d7d50-31cd-11ee-b93b-0e06f1aa7f7c",
+                "integration_id": "84c0c041-07c5-4259-ac4e-9fb2e832a04c"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "o1-preview",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "80d8eb77-9948-4c79-be2c-8d777fc1f3e1",
+                "ai_provider_id": "de7d7d50-31cd-11ee-b93b-0e06f1aa7f7c",
+                "integration_id": "84c0c041-07c5-4259-ac4e-9fb2e832a04c"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "o1-mini-2024-09-12",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "80d8eb77-9948-4c79-be2c-8d777fc1f3e1",
+                "ai_provider_id": "de7d7d50-31cd-11ee-b93b-0e06f1aa7f7c",
+                "integration_id": "84c0c041-07c5-4259-ac4e-9fb2e832a04c"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "o1-mini",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "80d8eb77-9948-4c79-be2c-8d777fc1f3e1",
+                "ai_provider_id": "de7d7d50-31cd-11ee-b93b-0e06f1aa7f7c",
+                "integration_id": "84c0c041-07c5-4259-ac4e-9fb2e832a04c"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "o1-2024-12-17",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "80d8eb77-9948-4c79-be2c-8d777fc1f3e1",
+                "ai_provider_id": "de7d7d50-31cd-11ee-b93b-0e06f1aa7f7c",
+                "integration_id": "84c0c041-07c5-4259-ac4e-9fb2e832a04c"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "o1",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "80d8eb77-9948-4c79-be2c-8d777fc1f3e1",
+                "ai_provider_id": "de7d7d50-31cd-11ee-b93b-0e06f1aa7f7c",
+                "integration_id": "84c0c041-07c5-4259-ac4e-9fb2e832a04c"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "multimodalembedding@001",
+            "base_model_slug": null,
+            "provider_count": 2,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4b9965fe-2c39-4984-ae12-5836703a43d9",
+                "ai_provider_id": "76cf26c8-03cf-11ef-9c04-1235d6b0b075",
+                "integration_id": "620c2877-ed6e-4753-883f-3ebe14c6f827"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "mistral.pixtral-large-2502-v1:0",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4e75293a-d5a8-4a15-85fc-9e7d359b4e62",
+                "ai_provider_id": "2a4c9504-d350-11ee-9c04-1235d6b0b075",
+                "integration_id": "2316511b-5f70-4a1c-adb6-7e768a197818"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "mistral.mixtral-8x7b-instruct-v0:1",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4e75293a-d5a8-4a15-85fc-9e7d359b4e62",
+                "ai_provider_id": "2a4c9504-d350-11ee-9c04-1235d6b0b075",
+                "integration_id": "2316511b-5f70-4a1c-adb6-7e768a197818"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "mistral.mistral-small-2402-v1:0",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4e75293a-d5a8-4a15-85fc-9e7d359b4e62",
+                "ai_provider_id": "2a4c9504-d350-11ee-9c04-1235d6b0b075",
+                "integration_id": "2316511b-5f70-4a1c-adb6-7e768a197818"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "mistral.mistral-large-2407-v1:0",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4e75293a-d5a8-4a15-85fc-9e7d359b4e62",
+                "ai_provider_id": "2a4c9504-d350-11ee-9c04-1235d6b0b075",
+                "integration_id": "2316511b-5f70-4a1c-adb6-7e768a197818"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "mistral.mistral-large-2402-v1:0",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4e75293a-d5a8-4a15-85fc-9e7d359b4e62",
+                "ai_provider_id": "2a4c9504-d350-11ee-9c04-1235d6b0b075",
+                "integration_id": "2316511b-5f70-4a1c-adb6-7e768a197818"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "mistral.mistral-7b-instruct-v0:2",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4e75293a-d5a8-4a15-85fc-9e7d359b4e62",
+                "ai_provider_id": "2a4c9504-d350-11ee-9c04-1235d6b0b075",
+                "integration_id": "2316511b-5f70-4a1c-adb6-7e768a197818"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "meta.llama3-8b-instruct-v1:0",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4e75293a-d5a8-4a15-85fc-9e7d359b4e62",
+                "ai_provider_id": "2a4c9504-d350-11ee-9c04-1235d6b0b075",
+                "integration_id": "2316511b-5f70-4a1c-adb6-7e768a197818"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "meta.llama3-70b-instruct-v1:0",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4e75293a-d5a8-4a15-85fc-9e7d359b4e62",
+                "ai_provider_id": "2a4c9504-d350-11ee-9c04-1235d6b0b075",
+                "integration_id": "2316511b-5f70-4a1c-adb6-7e768a197818"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "meta.llama3-3-70b-instruct-v1:0",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4e75293a-d5a8-4a15-85fc-9e7d359b4e62",
+                "ai_provider_id": "2a4c9504-d350-11ee-9c04-1235d6b0b075",
+                "integration_id": "2316511b-5f70-4a1c-adb6-7e768a197818"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "meta.llama3-2-90b-instruct-v1:0",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4e75293a-d5a8-4a15-85fc-9e7d359b4e62",
+                "ai_provider_id": "2a4c9504-d350-11ee-9c04-1235d6b0b075",
+                "integration_id": "2316511b-5f70-4a1c-adb6-7e768a197818"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "meta.llama3-2-11b-instruct-v1:0",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4e75293a-d5a8-4a15-85fc-9e7d359b4e62",
+                "ai_provider_id": "2a4c9504-d350-11ee-9c04-1235d6b0b075",
+                "integration_id": "2316511b-5f70-4a1c-adb6-7e768a197818"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "meta.llama3-1-8b-instruct-v1:0",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4e75293a-d5a8-4a15-85fc-9e7d359b4e62",
+                "ai_provider_id": "2a4c9504-d350-11ee-9c04-1235d6b0b075",
+                "integration_id": "2316511b-5f70-4a1c-adb6-7e768a197818"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "meta.llama3-1-70b-instruct-v1:0",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4e75293a-d5a8-4a15-85fc-9e7d359b4e62",
+                "ai_provider_id": "2a4c9504-d350-11ee-9c04-1235d6b0b075",
+                "integration_id": "2316511b-5f70-4a1c-adb6-7e768a197818"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "meta.llama3-1-405b-instruct-v1:0",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4e75293a-d5a8-4a15-85fc-9e7d359b4e62",
+                "ai_provider_id": "2a4c9504-d350-11ee-9c04-1235d6b0b075",
+                "integration_id": "2316511b-5f70-4a1c-adb6-7e768a197818"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "meta.llama2-70b-chat-v1",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4e75293a-d5a8-4a15-85fc-9e7d359b4e62",
+                "ai_provider_id": "2a4c9504-d350-11ee-9c04-1235d6b0b075",
+                "integration_id": "2316511b-5f70-4a1c-adb6-7e768a197818"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "meta.llama2-13b-chat-v1",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4e75293a-d5a8-4a15-85fc-9e7d359b4e62",
+                "ai_provider_id": "2a4c9504-d350-11ee-9c04-1235d6b0b075",
+                "integration_id": "2316511b-5f70-4a1c-adb6-7e768a197818"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "meta.llama-3.2-90b-vision-instruct-maas",
+            "base_model_slug": null,
+            "provider_count": 2,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4b9965fe-2c39-4984-ae12-5836703a43d9",
+                "ai_provider_id": "76cf26c8-03cf-11ef-9c04-1235d6b0b075",
+                "integration_id": "620c2877-ed6e-4753-883f-3ebe14c6f827"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "meta.llama-3.1-8b-instruct-maas",
+            "base_model_slug": null,
+            "provider_count": 2,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4b9965fe-2c39-4984-ae12-5836703a43d9",
+                "ai_provider_id": "76cf26c8-03cf-11ef-9c04-1235d6b0b075",
+                "integration_id": "620c2877-ed6e-4753-883f-3ebe14c6f827"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "meta.llama-3.1-70b-instruct-maas",
+            "base_model_slug": null,
+            "provider_count": 2,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4b9965fe-2c39-4984-ae12-5836703a43d9",
+                "ai_provider_id": "76cf26c8-03cf-11ef-9c04-1235d6b0b075",
+                "integration_id": "620c2877-ed6e-4753-883f-3ebe14c6f827"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "meta.llama-3.1-405b-instruct-maas",
+            "base_model_slug": null,
+            "provider_count": 2,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4b9965fe-2c39-4984-ae12-5836703a43d9",
+                "ai_provider_id": "76cf26c8-03cf-11ef-9c04-1235d6b0b075",
+                "integration_id": "620c2877-ed6e-4753-883f-3ebe14c6f827"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "llama4@llama-4-scout-17b-16e-instruct",
+            "base_model_slug": null,
+            "provider_count": 2,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4b9965fe-2c39-4984-ae12-5836703a43d9",
+                "ai_provider_id": "76cf26c8-03cf-11ef-9c04-1235d6b0b075",
+                "integration_id": "620c2877-ed6e-4753-883f-3ebe14c6f827"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "llama3_1@llama-3.1-8b-instruct",
+            "base_model_slug": null,
+            "provider_count": 2,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4b9965fe-2c39-4984-ae12-5836703a43d9",
+                "ai_provider_id": "76cf26c8-03cf-11ef-9c04-1235d6b0b075",
+                "integration_id": "620c2877-ed6e-4753-883f-3ebe14c6f827"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "llama3-8b-8192",
+            "base_model_slug": null,
+            "provider_count": 2,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4b9965fe-2c39-4984-ae12-5836703a43d9",
+                "ai_provider_id": "76cf26c8-03cf-11ef-9c04-1235d6b0b075",
+                "integration_id": "620c2877-ed6e-4753-883f-3ebe14c6f827"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "llama3-70b-8192",
+            "base_model_slug": null,
+            "provider_count": 2,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4b9965fe-2c39-4984-ae12-5836703a43d9",
+                "ai_provider_id": "76cf26c8-03cf-11ef-9c04-1235d6b0b075",
+                "integration_id": "620c2877-ed6e-4753-883f-3ebe14c6f827"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "llama3-3@llama-3.3-70b-instruct",
+            "base_model_slug": null,
+            "provider_count": 2,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4b9965fe-2c39-4984-ae12-5836703a43d9",
+                "ai_provider_id": "76cf26c8-03cf-11ef-9c04-1235d6b0b075",
+                "integration_id": "620c2877-ed6e-4753-883f-3ebe14c6f827"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "llama3-2@llama-3.2-3b-instruct",
+            "base_model_slug": null,
+            "provider_count": 2,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4b9965fe-2c39-4984-ae12-5836703a43d9",
+                "ai_provider_id": "76cf26c8-03cf-11ef-9c04-1235d6b0b075",
+                "integration_id": "620c2877-ed6e-4753-883f-3ebe14c6f827"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "llama3-2@llama-3.2-1b-instruct",
+            "base_model_slug": null,
+            "provider_count": 2,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4b9965fe-2c39-4984-ae12-5836703a43d9",
+                "ai_provider_id": "76cf26c8-03cf-11ef-9c04-1235d6b0b075",
+                "integration_id": "620c2877-ed6e-4753-883f-3ebe14c6f827"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "imagen-4.0-ultra-generate-preview-06-06",
+            "base_model_slug": null,
+            "provider_count": 2,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4b9965fe-2c39-4984-ae12-5836703a43d9",
+                "ai_provider_id": "76cf26c8-03cf-11ef-9c04-1235d6b0b075",
+                "integration_id": "620c2877-ed6e-4753-883f-3ebe14c6f827"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "imagen-4.0-ultra-generate-preview-05-20",
+            "base_model_slug": null,
+            "provider_count": 2,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4b9965fe-2c39-4984-ae12-5836703a43d9",
+                "ai_provider_id": "76cf26c8-03cf-11ef-9c04-1235d6b0b075",
+                "integration_id": "620c2877-ed6e-4753-883f-3ebe14c6f827"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "imagen-4.0-ultra-generate-001",
+            "base_model_slug": null,
+            "provider_count": 2,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4b9965fe-2c39-4984-ae12-5836703a43d9",
+                "ai_provider_id": "76cf26c8-03cf-11ef-9c04-1235d6b0b075",
+                "integration_id": "620c2877-ed6e-4753-883f-3ebe14c6f827"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "imagen-4.0-generate-preview-06-06",
+            "base_model_slug": null,
+            "provider_count": 2,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4b9965fe-2c39-4984-ae12-5836703a43d9",
+                "ai_provider_id": "76cf26c8-03cf-11ef-9c04-1235d6b0b075",
+                "integration_id": "620c2877-ed6e-4753-883f-3ebe14c6f827"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "imagen-4.0-generate-preview-05-20",
+            "base_model_slug": null,
+            "provider_count": 2,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4b9965fe-2c39-4984-ae12-5836703a43d9",
+                "ai_provider_id": "76cf26c8-03cf-11ef-9c04-1235d6b0b075",
+                "integration_id": "620c2877-ed6e-4753-883f-3ebe14c6f827"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "imagen-4.0-generate-001",
+            "base_model_slug": null,
+            "provider_count": 2,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4b9965fe-2c39-4984-ae12-5836703a43d9",
+                "ai_provider_id": "76cf26c8-03cf-11ef-9c04-1235d6b0b075",
+                "integration_id": "620c2877-ed6e-4753-883f-3ebe14c6f827"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "imagen-4.0-fast-generate-preview-06-06",
+            "base_model_slug": null,
+            "provider_count": 2,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4b9965fe-2c39-4984-ae12-5836703a43d9",
+                "ai_provider_id": "76cf26c8-03cf-11ef-9c04-1235d6b0b075",
+                "integration_id": "620c2877-ed6e-4753-883f-3ebe14c6f827"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "imagen-4.0-fast-generate-001",
+            "base_model_slug": null,
+            "provider_count": 2,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4b9965fe-2c39-4984-ae12-5836703a43d9",
+                "ai_provider_id": "76cf26c8-03cf-11ef-9c04-1235d6b0b075",
+                "integration_id": "620c2877-ed6e-4753-883f-3ebe14c6f827"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "imagen-3.0-generate-002",
+            "base_model_slug": null,
+            "provider_count": 2,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4b9965fe-2c39-4984-ae12-5836703a43d9",
+                "ai_provider_id": "76cf26c8-03cf-11ef-9c04-1235d6b0b075",
+                "integration_id": "620c2877-ed6e-4753-883f-3ebe14c6f827"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "imagen-3.0-generate-001",
+            "base_model_slug": null,
+            "provider_count": 2,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4b9965fe-2c39-4984-ae12-5836703a43d9",
+                "ai_provider_id": "76cf26c8-03cf-11ef-9c04-1235d6b0b075",
+                "integration_id": "620c2877-ed6e-4753-883f-3ebe14c6f827"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "imagen-3.0-fast-generate-001",
+            "base_model_slug": null,
+            "provider_count": 2,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4b9965fe-2c39-4984-ae12-5836703a43d9",
+                "ai_provider_id": "76cf26c8-03cf-11ef-9c04-1235d6b0b075",
+                "integration_id": "620c2877-ed6e-4753-883f-3ebe14c6f827"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "imagegeneration@006",
+            "base_model_slug": null,
+            "provider_count": 2,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4b9965fe-2c39-4984-ae12-5836703a43d9",
+                "ai_provider_id": "76cf26c8-03cf-11ef-9c04-1235d6b0b075",
+                "integration_id": "620c2877-ed6e-4753-883f-3ebe14c6f827"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "imagegeneration@005",
+            "base_model_slug": null,
+            "provider_count": 2,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4b9965fe-2c39-4984-ae12-5836703a43d9",
+                "ai_provider_id": "76cf26c8-03cf-11ef-9c04-1235d6b0b075",
+                "integration_id": "620c2877-ed6e-4753-883f-3ebe14c6f827"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "imagegeneration@002",
+            "base_model_slug": null,
+            "provider_count": 2,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "4b9965fe-2c39-4984-ae12-5836703a43d9",
+                "ai_provider_id": "76cf26c8-03cf-11ef-9c04-1235d6b0b075",
+                "integration_id": "620c2877-ed6e-4753-883f-3ebe14c6f827"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-vision-beta",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-code-fast-1-0825",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-code-fast-1",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-code-fast",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-beta",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-4-latest",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-4-fast-reasoning-latest",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-4-fast-reasoning",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-4-fast-non-reasoning-latest",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-4-fast-non-reasoning",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-4-fast",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-4-1-fast-reasoning-latest",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-4-1-fast-reasoning",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-4-1-fast-non-reasoning-latest",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-4-1-fast-non-reasoning",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-4-1-fast",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-4-0709",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-4",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-3-mini-latest",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-3-mini-fast-latest",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-3-mini-fast-beta",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-3-mini-fast",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-3-mini-beta",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-3-mini",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-3-latest",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-3-fast-latest",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-3-fast-beta",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-3-fast",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-3-beta",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-3",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-2-vision-latest",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-2-vision-1212",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-2-vision",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-2-latest",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-2-1212",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "grok-2",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "b98d94ea-67eb-448f-9bda-5240efc4f0b5",
+                "ai_provider_id": "0a9635da-bd84-11ef-9c04-1235d6b0b075",
+                "integration_id": "e2f67b13-b5b0-4d76-9811-083b3a39e76a"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "gpt-realtime-mini-2025-10-06",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "80d8eb77-9948-4c79-be2c-8d777fc1f3e1",
+                "ai_provider_id": "de7d7d50-31cd-11ee-b93b-0e06f1aa7f7c",
+                "integration_id": "84c0c041-07c5-4259-ac4e-9fb2e832a04c"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "gpt-realtime-mini",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "80d8eb77-9948-4c79-be2c-8d777fc1f3e1",
+                "ai_provider_id": "de7d7d50-31cd-11ee-b93b-0e06f1aa7f7c",
+                "integration_id": "84c0c041-07c5-4259-ac4e-9fb2e832a04c"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "gpt-realtime-2025-08-28",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "80d8eb77-9948-4c79-be2c-8d777fc1f3e1",
+                "ai_provider_id": "de7d7d50-31cd-11ee-b93b-0e06f1aa7f7c",
+                "integration_id": "84c0c041-07c5-4259-ac4e-9fb2e832a04c"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "gpt-realtime",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "80d8eb77-9948-4c79-be2c-8d777fc1f3e1",
+                "ai_provider_id": "de7d7d50-31cd-11ee-b93b-0e06f1aa7f7c",
+                "integration_id": "84c0c041-07c5-4259-ac4e-9fb2e832a04c"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "gpt-image-1-mini",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "80d8eb77-9948-4c79-be2c-8d777fc1f3e1",
+                "ai_provider_id": "de7d7d50-31cd-11ee-b93b-0e06f1aa7f7c",
+                "integration_id": "84c0c041-07c5-4259-ac4e-9fb2e832a04c"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "gpt-image-1",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "80d8eb77-9948-4c79-be2c-8d777fc1f3e1",
+                "ai_provider_id": "de7d7d50-31cd-11ee-b93b-0e06f1aa7f7c",
+                "integration_id": "84c0c041-07c5-4259-ac4e-9fb2e832a04c"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "gpt-audio-mini-2025-10-06",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "80d8eb77-9948-4c79-be2c-8d777fc1f3e1",
+                "ai_provider_id": "de7d7d50-31cd-11ee-b93b-0e06f1aa7f7c",
+                "integration_id": "84c0c041-07c5-4259-ac4e-9fb2e832a04c"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "gpt-audio-mini",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "80d8eb77-9948-4c79-be2c-8d777fc1f3e1",
+                "ai_provider_id": "de7d7d50-31cd-11ee-b93b-0e06f1aa7f7c",
+                "integration_id": "84c0c041-07c5-4259-ac4e-9fb2e832a04c"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "gpt-audio-2025-08-28",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "80d8eb77-9948-4c79-be2c-8d777fc1f3e1",
+                "ai_provider_id": "de7d7d50-31cd-11ee-b93b-0e06f1aa7f7c",
+                "integration_id": "84c0c041-07c5-4259-ac4e-9fb2e832a04c"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "gpt-audio",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "80d8eb77-9948-4c79-be2c-8d777fc1f3e1",
+                "ai_provider_id": "de7d7d50-31cd-11ee-b93b-0e06f1aa7f7c",
+                "integration_id": "84c0c041-07c5-4259-ac4e-9fb2e832a04c"
+            },
+            "object": "provider"
+        },
+        {
+            "slug": "gpt-5.2-pro-2025-12-11",
+            "base_model_slug": null,
+            "provider_count": 1,
+            "supported_providers": null,
+            "provider_details": {
+                "id": "80d8eb77-9948-4c79-be2c-8d777fc1f3e1",
+                "ai_provider_id": "de7d7d50-31cd-11ee-b93b-0e06f1aa7f7c",
+                "integration_id": "84c0c041-07c5-4259-ac4e-9fb2e832a04c"
+            },
+            "object": "provider"
+        }
+    ]
+}
