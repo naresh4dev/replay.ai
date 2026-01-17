@@ -1,0 +1,9 @@
+services: 
+  ai_service:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8501:8501"
+    environment:
+      - PORTKEY_API_KEY=${PORTKEY_API_KEY} 
