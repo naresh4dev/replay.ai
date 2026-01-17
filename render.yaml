@@ -1,0 +1,16 @@
+# Exported from Render on 2026-01-17T21:55:38Z
+version: "1"
+services:
+- type: web
+  name: replay-ai-service
+  runtime: image
+  image:
+    url: docker.io/naresh4dev/replay-ai-service:latest
+  plan: free
+  region: oregon
+  autoDeployTrigger: commit
+  envVars:
+    - key: PORTKEY_API_KEY
+      fromSecret: PORTKEY_API_KEY
+  ports:
+    - port: 8501
