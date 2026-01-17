@@ -42,11 +42,16 @@ orchestrator = ChatOrchestrator(
 prompt = st.chat_input("Ask anything...")
 
 if prompt:
+    # Step by Step Execution with Spinner
     with st.spinner("Thinking with the best model..."):
-        result = orchestrator.handle_prompt(prompt, user_prefs)
-    
+        recommendation, explanation = orchestrator.get_recommended_model(prompt, user_prefs)
+        # Default model slug if recommendation is None
+        model_slug = "@openai/gpt-4o" if recommendation is None else f"@{recommendation['primary_provider']}/{recommendation['primary_model']}"
+        st.markdown(explanation)
+        with st.expander("🔍 Why this model?"):
+            st.json(recommendation)
+    with st.spinner("Generating response..."):
+        result = orchestrator.handle_prompt(prompt, model_slug)
     st.chat_message("assistant").markdown(result["answer"])
 
-    with st.expander("🔍 Why this model?"):
-        st.markdown(result["explanation"])
-        st.json(result["metadata"])
+    

@@ -1,3 +1,4 @@
+import math
 class ChatOrchestrator:
 
     def __init__(self, enrichment_service, router, portkey_client):
@@ -5,15 +6,9 @@ class ChatOrchestrator:
         self.router = router
         self.client = portkey_client
 
-    def handle_prompt(self, prompt, user_prefs):
-        # -----------------------------
-        # Stage 1: Enrichment
-        # -----------------------------
+    def get_recommended_model(self, prompt, user_prefs):
         enriched = self.enrichment.enrich(prompt)
 
-        # -----------------------------
-        # Stage 4: Routing
-        # -----------------------------
         recommendation = self.router.recommend(
             category=enriched.category,
             quality_weight=user_prefs["quality_weight"],
@@ -22,33 +17,34 @@ class ChatOrchestrator:
         )
 
         if not recommendation:
-            raise ValueError("No suitable model found")
+            explanation = (
+                "No suitable model found based on your preferences. "
+                "Using default model(@openai/gpt-4o)."
+            )
+            return None, explanation
 
+        explanation = (
+            f"Switched to **{recommendation['primary_model']}** "
+            f"to reduce cost while maintaining quality. "
+            f"Estimated avg cost: ${(recommendation['evidence']['avg_cost']):.4f}, "
+            f"quality score: {recommendation['evidence']['avg_quality']}."
+        )
+        return recommendation, explanation
+
+    def handle_prompt(self, prompt, model_slug):
+       
         # -----------------------------
         # Model Invocation
         # -----------------------------
         response = self.client.chat.completions.create(
-            model=f"@{recommendation['primary_provider']}/{recommendation['primary_model']}",
+            model=model_slug,
             messages=[{"role": "user", "content": prompt}]
         )
 
         # -----------------------------
         # Explanation
         # -----------------------------
-        explanation = (
-            f"Switched to **{recommendation['primary_model']}** "
-            f"to reduce cost while maintaining quality. "
-            f"Estimated avg cost: ${recommendation['evidence']['avg_cost']}, "
-            f"quality score: {recommendation['evidence']['avg_quality']}."
-        )
 
         return {
             "answer": response.choices[0].message.content,
-            "explanation": explanation,
-            "metadata": {
-                "category": enriched.category,
-                "complexity": enriched.complexity,
-                "tokens": enriched.features["token_count"],
-                "model_used": recommendation["primary_model"]
-            }
         }
