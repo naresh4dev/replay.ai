@@ -15,7 +15,7 @@ st.sidebar.header("🎛️ Your Preferences")
 
 quality_weight = st.sidebar.slider("Quality Priority", 0.0, 1.0, 0.6)
 cost_weight = st.sidebar.slider("Cost Priority", 0.0, 1.0, 0.4)
-max_cost = st.sidebar.number_input("Max Cost ($)", value=0.0, step=0.01)
+max_cost = st.sidebar.number_input("Max Cost ($)", value=0.20, step=0.01)
 
 user_prefs = {
     "quality_weight": quality_weight,
